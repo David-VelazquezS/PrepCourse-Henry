@@ -1,2 +1,2 @@
 # PrepCourse Henry
-repo de práctica para Curso Henry
+Practicando en git a hacer repos, clone, commit y otros comandos.
